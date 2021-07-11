@@ -2,8 +2,6 @@
 /*
 Çift bagli liste (doubly linked list) veri yapısı kullanımına dayanan ve müsterilerin soyada göre
 alfabetik sıralı olarak tutuldugu bir müsteri bilgi kayıt uygulaması gelistirilmesi istenmektedir.
-Hazirlayan: Gizem Duygu Sonmez 
-Ogrenci Numarasi: 05190000060
  */
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
